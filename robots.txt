@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://kkga.github.io/lume-test/sitemap.xml
